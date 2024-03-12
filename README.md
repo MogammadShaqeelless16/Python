@@ -3,7 +3,6 @@
 Week one : Summary
 
 - Basic Data Types 
-- Activities for week One 
-- Item 3
-  - Sub Item 1
+- Activities for Week One
+  - Converting Hex to Decimal
   - Sub Item 2
