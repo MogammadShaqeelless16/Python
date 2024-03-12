@@ -4,6 +4,10 @@ def draw(event):
     x, y = event.x, event.y
     canvas.create_oval(x, y, x+5, y+5, fill=current_color)
 
+def erase(event):
+    x, y = event.x, event.y
+    canvas.create_oval(x, y, x+5, y+5, fill="white")
+
 def change_color(new_color):
     global current_color
     current_color = new_color
