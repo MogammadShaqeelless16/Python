@@ -1,5 +1,6 @@
 # Python-Month
 ![Python Logo](https://www.python.org/static/img/python-logo.png)
+<br>
 Week one : Summary
 
 - Basic Data Types 
