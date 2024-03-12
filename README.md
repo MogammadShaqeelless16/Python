@@ -5,4 +5,6 @@ Week one : Summary
 - Basic Data Types 
 - Activities for Week One
   - Converting Hex to Decimal
-  - Sub Item 2
+  - Fractional Challenge 
+  - Terminal Scribe 
+  - 
