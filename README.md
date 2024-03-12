@@ -1,4 +1,4 @@
-# Python-Week-1
+# Python-Month
 
 Week one : Summary
 
@@ -7,4 +7,10 @@ Week one : Summary
   - Converting Hex to Decimal
   - Fractional Challenge 
   - Terminal Scribe 
-  - 
+
+
+Week two : Summary
+
+- Basic Functions 
+- Activities for Week Two
+  - lambda Function
