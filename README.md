@@ -1,6 +1,5 @@
 # Python-Month
 [![Python Logo](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
 <br>
 Week one : Summary
 
