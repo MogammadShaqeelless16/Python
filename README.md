@@ -1,5 +1,6 @@
 # Python-Month
-![Python Logo](https://www.python.org/static/img/python-logo.png)
+[![Python Logo](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
 <br>
 Week one : Summary
 
@@ -7,8 +8,7 @@ Week one : Summary
 - Activities for Week One
   - Converting Hex to Decimal
   - Fractional Challenge 
-  - Terminal Scribe 
-
+  - Terminal Scribe
 
 Week two : Summary
 
