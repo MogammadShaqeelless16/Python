@@ -12,5 +12,9 @@ Week one : Summary
 Week two : Summary
 
 - Basic Functions 
+- Basic Class
 - Activities for Week Two
   - lambda Function
+  - Anatomy of a Class
+  - Instance And Statuc 
+  - Inheritance
