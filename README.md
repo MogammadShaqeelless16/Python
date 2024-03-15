@@ -8,6 +8,9 @@ Week one : Summary
   - Converting Hex to Decimal
   - Fractional Challenge 
   - Terminal Scribe
+Scientific Computing with Python
+  - https://www.freecodecamp.org/learn/scientific-computing-with-python/ 
+
 
 Week two : Summary
 
