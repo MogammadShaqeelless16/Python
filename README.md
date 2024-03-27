@@ -21,6 +21,8 @@ Week two : Summary
   - Anatomy of a Class
   - Instance And Static 
   - Inheritance
+  - Error handling 
+  - custom classes
 
 
 Week three : Summary

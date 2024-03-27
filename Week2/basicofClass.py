@@ -6,14 +6,15 @@ class Person:
         self.name = name
         self.age = age
 
+
     # Method to greet the person
     def greet(self):
         # Print a personalized greeting message
-        print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+        print("Hello, my name is {self.name} and I am {self.age} years old.")
 
 
 # Create an instance of the Person class with name "Alice" and age 30
-alice = Person("Alice", 30)
+alice = Person("Shaqeel", 30)
 
 # Create another instance of the Person class with name "Bob" and age 25
 bob = Person("Bob", 25)

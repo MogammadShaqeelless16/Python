@@ -1,0 +1,8 @@
+Welcome to the Subject Calculator!
+This application allows you to add subjects along with their pass rates.
+You can then enter student marks for each subject and check if they pass.
+To add a subject, enter the subject name and pass rate in the provided entry fields,\n
+then click the 'Add Subject' button. To delete a subject, select it from the list and click 'Delete Subject'.\n\n
+Once subjects are added, you can enter student marks by clicking the 'Enter Student Marks' button,\n
+and the application will calculate whether the student passed each subject.\n\n
+Enjoy using the Subject Calculator!
