@@ -56,3 +56,13 @@ print(a)
 print(b)
 print(c)
 print(d)
+
+x = 5
+
+x &= 3
+
+print(x)
+
+
+sum = 458 % 10
+print(sum)

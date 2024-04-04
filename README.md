@@ -34,3 +34,4 @@ Week three : Summary
   - Anatomy of a Class
   - Instance And Static 
   - Inheritance
+  - Password project
